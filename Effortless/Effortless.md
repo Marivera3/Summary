@@ -84,3 +84,55 @@ modern life has created a false dichotomy between things that are “essential a
 * When a strategy is so complex that each step feels akin to pushing aboulder up a hill, you should pause. Invert the problem. Ask, “What’sthe simplest way to achieve this result?”
 
 * When we shelve the false assumption that the easier path has to be theinferior path, obstacles fade away. And as these obstacles disappear,we can begin to uncover our Effortless State.
+
+## CHAPTER 2: ENJOY -- What If This Could Be Fun?
+
+* So often we separate important work from trivial play.
+
+* Separating important work from play makes life harder than it needs tobe.
+
+* But essential work can be enjoyable once we put aside the Puritannotion that anything worth doing must entail backbreaking effort. 
+
+* By pairing essential activities with enjoyable ones, we can make tackling even the most tedious and overwhelming tasks moreeffortless.
+
+### Reduce the Lag Indicator
+
+* It’s no secret that many essential activities that are not particularly joyful in the moment produce moments of joy later on. 
+  
+* But these are all lag indicators—meaning, you experience the reward after the action has taken place, sometimes weeks, months, oryears afterward.
+
+* But essential activities don’t have to be enjoyed only in retrospect. Wecan also experience joy in the activity itself. We simply reduce the lagtime between the action and satisfaction by pairing the essentialactivity with a reward.
+
+* “How can I make calling these people back enjoyable?”
+
+* “There are many experiences in our work and personal life that are boring, mundane, or even stressful. We often feel that we have no options but to endure them or avoid them” 
+* “if we can break down the processes into those steps, we may find waysto make the steps more bearable, or better yet, fun.”
+
+* There is power in pairing our most enjoyable activities with our most essential ones.
+
+* How long have you tried to force yourself to do the important but difficultthing through sheer determination, instead of making it fun?
+
+* One leader I have worked with sees running on a treadmill every day asan essential habit. Yet he was inconsistent about it until he paired itwith an enjoyable daily practice he never missed: listening to hisfavorite daily podcast. Now he gets to listen to the podcast only if he iswalking or running on the treadmill. He doesn’t reward himself after hehas finished his workout; he rewards himself during. Ever since hemade this essential practice enjoyable, he has found it easy tocontinue doing it consistently.
+
+### Work Easy, Play Easy
+
+* Don’t underestimate the power of the right soundtrack to ditch thedrudgery and get into a groove.
+
+### Create Building Blocks of Joy
+
+* It’s not just that work and play can co-exist, it’s that they cancomplement each other. Together they make it easier to tap into our creativity and come up with novel ideas and solutions.
+
+### Create Habits with a Soul
+
+* Habits explain “what” you do, but rituals are about “how” you do it.
+
+* Rituals make essential habits easier to sustain by infusing the habits with meaning.
+
+* Our rituals are habits we have put our thumbprint on. Our rituals arehabits with a soul.They have the power to transform a tedious task into an experiencethat creates joy.When we invite joy into our daily routine, we are no longer yearning for the far-off day when it might arrive. That day is always today. When weattach small fragments of wonder to mundane tasks, we are no longerwaiting for the time when we can finally allow ourselves to relax. Thattime is always now. As fun and laughs lighten more of our moments, weare drawn back further toward our natural, playful Effortless State.
+
+
+
+
+
+
+

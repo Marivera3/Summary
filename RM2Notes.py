@@ -34,9 +34,14 @@ fpath = fpath2RM + '/'+lMd0[n[0]]
 highlightslist = listdir(fpath)
 
 
-with open('C:/Users/mariv/Documents/1-Projects/RM-Notes/' + name +'.md', 'w', encoding='utf-8') as fmd:
-    fmd.write('# ' +name + '\n')
-    s = ''
+with open('C:/Users/mariv/Documents/1-Projects/RM-Notes/' + name +'.md', 'a+', encoding='utf-8') as fmd:
+    # fmd.write('# ' +name + '\n')
+    # s = ''
+    fmd.seek(0)
+    dataFile = fmd.read()
+    if len(dataFile) ==  0:
+        fmd.write('# ' +name + '\n')
+
     for highfile in highlightslist:
 
         with open(fpath + '/'+ highfile, encoding='utf-8') as fh:
@@ -50,15 +55,19 @@ with open('C:/Users/mariv/Documents/1-Projects/RM-Notes/' + name +'.md', 'w', en
             start.append(data['highlights'][0][n]['start'])
             text.append(data['highlights'][0][n]['text'])
 
+        # Order data by using the start information
         start, color, text = zip(*sorted(zip(start, color, text)))
+
         # print(color, start, text)
         for i in range(len(color)):
-            if color[i] == 8: # gray
-#                 s = s + '\t * ' + text[i] + '\n'
-                fmd.write('* ' + text[i] + '\n')
-            if color[i] == 3: # yellow
-#                 s = s + '### ' + text[i] + '\n'
-                fmd.write('## ' + text[i] + '\n')
-            if color[i] == 4:
-                fmd.write('### ' + text[i] + '\n')
-            fmd.write('\n')
+            if text[i] not in dataFile:
+                fmd.write('\n')
+                if color[i] == 8: # gray
+    #                 s = s + '\t * ' + text[i] + '\n'
+                    fmd.write('* ' + text[i] + '\n')
+                if color[i] == 3: # yellow
+    #                 s = s + '### ' + text[i] + '\n'
+                    fmd.write('## ' + text[i] + '\n')
+                if color[i] == 4:
+                    fmd.write('### ' + text[i] + '\n')
+                fmd.write('\n')
