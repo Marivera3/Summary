@@ -1,7 +1,7 @@
 from os import listdir
 import json
+# name = 'Building a Second Brain'
 name = 'Effortless'
-
 fpath2RM = 'C:/Users/mariv/AppData/Roaming/remarkable/desktop'
 listRMDesktop = listdir(fpath2RM); 
 # listRMDesktop[2].split('.')
@@ -28,7 +28,7 @@ for ii in range(len(listMetadata)):
 
 lMd0 =  [[fRM for fRM in listRMDesktop if fRM.split('.')[0] == ii] for ii in lMd]
 lMd0.sort()
-lMd0 = lMd0[0]
+lMd0 = lMd0[0] # 1 for BASB
 n = [ii for ii in range(len(lMd0)) if 'highlights' in lMd0[ii]]
 fpath = fpath2RM + '/'+lMd0[n[0]]
 highlightslist = listdir(fpath)
@@ -70,4 +70,4 @@ with open('C:/Users/mariv/Documents/1-Projects/RM-Notes/' + name +'.md', 'a+', e
                     fmd.write('## ' + text[i] + '\n')
                 if color[i] == 4:
                     fmd.write('### ' + text[i] + '\n')
-                fmd.write('\n')
+                # fmd.write('\n')

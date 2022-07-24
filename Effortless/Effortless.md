@@ -130,9 +130,144 @@ modern life has created a false dichotomy between things that are “essential a
 
 * Our rituals are habits we have put our thumbprint on. Our rituals arehabits with a soul.They have the power to transform a tedious task into an experiencethat creates joy.When we invite joy into our daily routine, we are no longer yearning for the far-off day when it might arrive. That day is always today. When weattach small fragments of wonder to mundane tasks, we are no longerwaiting for the time when we can finally allow ourselves to relax. Thattime is always now. As fun and laughs lighten more of our moments, weare drawn back further toward our natural, playful Effortless State.
 
+## CHAPTER 3: RELEASE -- The Power of Letting Go
+
+* The idea had been added as a “to-do” in my brain three decades before, then had slipped beneath myconsciousness. Evidently, it had been in my head all this time, taking up mental space.
+
+* Do you have any items like this, living rent-free in your mind? Outdatedgoals, suggestions, or ideas that snuck into your brain long ago andtook up permanent residence? Mindsets that have outlived theirusefulness but have been part of you for so long, you barely even notice them?
+
+* Stormtroopers take many forms: regrets that continue to haunt us,grudges we can’t seem to let go of, expectations that were realistic atsome point but are now getting in our way.
+
+* These intruders are like unnecessary applications running in thebackground of your computer, slowing down all its other functionality.At first they might not seem to affect your speed and agility. But asthey keep accumulating, one after another, eventually your operating system starts to run slower.
+  
+### Focus on What You Have
+
+* When we fall victim to misfortune, it’s hard not to obsess, lament, or complain about all that we have lost.
+
+* Complaining is one of the easiest things to do. It’s so easy many of us do it incessantly: someone is late to meet us, when our neighbors are too loud, there are no parking spaces on the one day we are running late, we watch the news,
+
+* We live in a complaint culture that gets high on expressing outrage:social media, affect us, and give us emotional cancer.
+
+* We start to perceive more injustices in our own lives. Occupying valuable real estate in our brains and hearts.
+  
+* Have you ever found that the more you complain—and the more you read and hear other people complain—the easier it is to find things to complain about? 
+  
+* Have you ever found that the more grateful you are, the more you have to be grateful for? Toxic thoughts quickly accumulate.
+And the more mental space they occupy, the harder it becomes to return to the When you focus on something you are thankful for, the effect is instant.
+
+* It immediately shifts you from a lack state (regrets, worries about the future, the feeling of being behind) and puts you into a have state (what is going right, what progress you are making, what potentialexists in this moment). It reminds you of all the resources, all theassets, all the skills you have at your disposal—so you can use them tomore easily do what matters most.
+
+* Broaden-and-build theory in psychology: Positive emotions open us to new perspectives and possibilities. Our openness encourages creative ideas and fosters social bonds. They unlock new physical, intellectual, psychological, and social resources. They create “an upward spiral” that improves our odds of coping with the next challenge we face. When we express gratitude to others, we see their faces light up.
+
+* When you focus on what you lack, you lose what you have.
+
+* When you focus on what you have, you get what you lack.
+
+* Complaining, too, creates a self-sustaining cycle. But instead ofmaking it easier to do what matters, this system makes it harder. A “downward spiral.”
+
+* When we experience negative emotions our mindset narrows. We are less open to new ideas and to other people. Making it harder to cope with the very challenges or frustrations.
+
+* A system is self-sustaining if it requires less and lessinvestment of energy over time. Once it’s set in motion, maintaining itbecomes easier, then easy, then eventually effortless. A system with momentum.
+
+### Relieve a Grudge of Its Duties
+
+* Have you ever held on to a grudge against people who hurt you?Wasted precious mental energy being angry, hurt, annoyed, orresentful? How long has the wound been festering? Weeks? Months?Years? Decades?
+
+* We can all let go of the grudges that we have been holding on to, whichhave made it harder to focus on the things we truly care about.
+
+* A good first step we can take is to ask this unusual question: What jobhave I hired this grudge to do?
+
+* We often hire a grudge to fulfill an emotional need that is not currently being met.
+
+* Grudges cost us resources but don’t deliver a satisfying return on our investment. So we must relieve a grudge of its duties.
+
+* Sometimes we hire a grudge to make us feel in control. We try to proveto ourselves and others that we are right and they are wrong. At firstthis can make us feel superior, even powerful. It gives us a sense ofcontrol, but one that is fleeting and false, because in reality a grudge controls you.
+
+* It also keeps us trapped in a never-ending loop of blame, self-righteousness, and self-loathing.
+
+* There are times we hire a grudge to give us attention. When people hear our story of victimhood, we get their support and sympathy. Behind the sympathy people express, there is also fatigue. This is onereason you always have to find new people to tell your story to. 
+
+* We hire a grudge to protect ourselves. We think that by being wary ofthe person or people who hurt us once, we can protect ourselves frombeing hurt again. We think the grudge creates emotional armor. Butthis too turns out to be a scam. The grudge makes us more vulnerable,more fearful. It becomes harder to trust, to let anybody in.
+
+### Accept What You Can’t Control
+
+* “When someone shows you who they are, believe them the first time”
+
+* When we let go of our need to punish those who’ve hurt us, it’s not the culprit who is freed. We are freed.
+
+## CHAPTER 4: REST -- The Art of Doing Nothing
+
+### Learning to Relax
+
+* doing nothing is painfully hard.
+
+* Studies show that peak physical and mental performance requires a rhythm of exerting and renewing energy.
+
+* “individuals must avoid exhaustion and must limit practice to an amount from which they can completelyrecover on a daily or weekly basis.”
+
+* Have you ever pushed yourself so far past the point of exhaustion one day that you wake up the next morning utterly depleted and need the entire day to rest?
+
+* Follow this simple rule: Do not do more today than you can completely recover from today. Do not do more this week than you can completelyrecover from this week.
+
+* We can miss the signs that we’ve reached the end of an energy cycle.We can ignore the loss of focus, low energy, and fidgeting. We canpower through. We can artificially try to compensate with caffeine orsugar to get past our energy slump. But in the end, our fatigue catchesup with us, making essential work much harder than it needs to be.
+
+### The Power of the One-Minute Pause
+
+* When we are struggling, instead of doubling down on our efforts, wemight consider pausing the action—even for one minute. We don’tneed to fight these natural rhythms. We can flow with them. We canuse them to our advantage. We can alternate between periods ofexertion and renewal.
+
+### Lack of Sleep Is Killing Us
+
+* “Routine nightly sleep for fewer than six hours results in cognitive performance deficits, even if we feel we have adapted to it.”Getting more sleep may be the single greatest gift we can give ourbodies, our minds, and even, it turns out, our bottom lines.
+
+### Go Deep
+
+* "I have seen firsthand that poor sleep quality and/or an insufficient sleepquantity undermines the mindsets of founders,” he says, “makingthem harder to work with and less resilient, which in turn reduces theprobability of startup success.” This is not surprising when youconsider the research showing that sleep problems may underminealertness, creativity, and social competence—all critical qualities forhigh-striving entrepreneurs.
+
+* Deep sleep is crucial to many aspects of health; even if we manage a full night’ssleep, unless enough of that sleep is in a deep state, we’ll suffer fromsleep deprivation. Unlike in rapid eye movement (REM) sleep, in thedeep sleep stage, your body and brain waves slow down. This is thestage where information is stored in long-term memory, learning andemotions are processed, the immune system is energized, and thebody recovers. Healthy adults spend an average of 13 to 23 percent oftheir night in deep sleep. So if you sleep for seven hours, thattranslates to just fifty to one hundred minutes in a deep state. Eachminute, in other words, is precious.
+
+* Sleep quality, is how much uninterrupted sleep you get overall. Uninterrupted sleep is when our brain waves and heart ratereach a point that allows physiological and psychological resources tobe restored. This is why we rarely feel rested when we wake up anumber of times at night.
+
+* Maximize both deep sleep and sleep quality, went to bed at the same time every night, turned off digital devices an hour before bed, before turning in, took a hot shower. Who take a bath before bed slept sooner, longer, and better. the key is the timing of the bath or shower: ninety minutes before bedtime.
 
 
-
-
+##########
+* no options but to endure them or avoid them,”
+### Hard Work May Not Be WellNamed
+* natural law
+* behind almost every failure of my whole life
+* simplifying the process to make the
+* efforts yield a one-time benefit,
+* result.
+* residual results
+* But essential work can be enjoyable once we put aside the Puritannotion that anything worth doing must entail backbreaking effort. Why
+* When you return to your Effortless State, you feel lighter, in the twosenses of the word. First, you feel less heavy—unburdened. You aren’tas weighed down. Suddenly you have more energy.
+* Free of the assumptions that make your problem look hard, you wouldbe surprised how often an easier solution appears.
+### Can You Push SomethingDownhill?
+* when your brain is filled with clutter—like
+## CHAPTER 2ENJOYWhat If This Could Be Fun?
+* momentum…
+* Put simply, a system is self-sustaining if it requires less and lessinvestment of energy over time. Once it’s set in motion, maintaining itbecomes easier, then easy, then eventually effortless.
+* When you focus on whatyou have, you get what youlack.
+* “When someone shows you who they are, believe them the first time,”
+* When you focus on whatyou lack, you lose what youhave.
+* future, the feeling of being behind) and puts you into a have state(what is going right, what progress you are making, what potentialexists in this moment). It reminds you of all the resources, all theassets, all the skills you have at your disposal—so you can use them tomore easily do what matters most.
+## CHAPTER 3RELEASEThe Power of Letting Go
+* my brain three decades before, then had slipped beneath myconsciousness. Evidently, it had been in my head all this time, takingup mental space.
+* broaden-and-build theory in psychology
+* when we express gratitude to
+* complaining is one of the
+* affect us.
+* occupying valuable real estate in our brains and hearts.
+* Have you ever found that the more you complain—and the more youread and hear other people complain—the easier it is to find things to
+* have you ever found that the more
+* When you focus on something you are thankful for, the effect is instant.It immediately shifts you from a lack state (regrets, worries about the
+* we can all let go of the grudges that we have been holding on to, whichhave made it harder to focus on the things we truly care about.
+* we often hire a grudge to fulfill an emotional need that
+### The Power of the One-MinutePause
+* requires a rhythm of exerting and renewing energy—and
+## CHAPTER 4RESTThe Art of Doing Nothing
+* maximize both deep sleep and sleep quality,
+* bath—
+##########
 
 
